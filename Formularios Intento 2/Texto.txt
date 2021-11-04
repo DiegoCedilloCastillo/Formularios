@@ -1,0 +1,4 @@
+DOOM fue lanzado en 1993.
+Es un juego de disparos en primera persona.
+Cuenta con cuatro capítulos de nueve niveles cada uno.
+El Doom original pesaba 11MB, comprimido en 4 disquetes.
